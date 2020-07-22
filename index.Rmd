@@ -1,0 +1,18 @@
+---
+layout: page
+title: "Corey S. Sparks, Ph.D."
+comments: false
+description: Corey S. Sparks, PhD, is a statistical demographer and methodologist at the University of Texas at San Antonio
+---
+
+### About Me
+
+I am an associate professor in the Department of Demography at the University of Texas at San Antonio.
+
+I am also the current co-editor of Population Research and Policy Review
+
+My research focuses primarily on spatial and statistical demography. Substantively, I am interested in human health disparities, food security, historical demography and demography of anthropological populations.
+
+My teaching focuses on the use and application of advanced statistical techniques including hierarchical modeling, hazard modeling, multivariate methods and spatial statistics in human population analysis.
+
+I contribute regularly to the Rpubs site, and you can find lots of R examples for demographic analysis here
