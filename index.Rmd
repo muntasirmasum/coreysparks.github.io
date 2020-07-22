@@ -3,6 +3,10 @@ layout: page
 title: "Corey S. Sparks, Ph.D."
 comments: false
 description: Corey S. Sparks, PhD, is a statistical demographer and methodologist at the University of Texas at San Antonio
+output:
+  html_document:
+    includes:
+      in_header: cover.html
 ---
 
 ### About Me

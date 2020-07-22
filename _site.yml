@@ -10,15 +10,17 @@ navbar:
     - text: "Teaching"
       href: teaching.html
   right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
-    - icon: fa-github fa-lg
+    - icon: fa-envelope-o
+      href: mailto:corey.sparks@utsa.edu
+    - icon: fa-github
       href: https://github.com/coreysparks
-    - icon: fa-twitter fa-lg
+    - icon: fa-twitter
       href: https://twitter.com/coreysparks1
-    - icon: fa-linkedin fa-lg
+    - icon: fa-linkedin
       href: https://www.linkedin.com/in/corey-sparks-17b0911b/
 output:
   html_document:
-    theme: paper
-    css: 'styles.css'
+    theme: readable
+    highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
