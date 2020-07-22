@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "Corey S. Sparks, Ph.D."
   left:
-    - text: "Research"
-      href: research.html
+    - text: "CV"
+      href: cv.pdf
     - text: "R stuff"
       href: r.html
     - text: "Teaching"

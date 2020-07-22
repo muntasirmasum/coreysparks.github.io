@@ -15,4 +15,4 @@ My research focuses primarily on spatial and statistical demography. Substantive
 
 My teaching focuses on the use and application of advanced statistical techniques including hierarchical modeling, hazard modeling, multivariate methods and spatial statistics in human population analysis.
 
-I contribute regularly to the Rpubs site, and you can find lots of R examples for demographic analysis here
+I contribute regularly to the Rpubs site, and you can find lots of R examples for demographic analysis [here](rpubs.com/corey_sparks)
