@@ -9,6 +9,9 @@ navbar:
       href: r.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Blog"
+      icon: fa-rss
+      href: https://coreysparks.github.io/blog/
   right:
     - icon: fa-envelope-o
       href: mailto:corey.sparks@utsa.edu
