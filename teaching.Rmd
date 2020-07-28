@@ -21,8 +21,8 @@ All of my current syllabi can be found the [UTSA Bluebook page.](https://blueboo
 ## Current Courses
 My current course examples can be seen at [my Rpubs page](https://rpubs.com/corey_sparks) at at my [Github repository](github.com/coreysparks)
 
-  * Demog [7223 Advanced methods for life table analysis](/DEM7223)
-  * Demog [7283 Statistical Methods for Demographic Data 2](/DEM7283)
+  * Demog [7223 Advanced methods for life table analysis](https://github.com/coreysparks/DEM7223)
+  * Demog [7283 Statistical Methods for Demographic Data 2](https://github.com/coreysparks//DEM7283)
   * Demog 7263 Spatial Demography 
   * Demog 7093 GIS for Population Science 
   * Demog 7273 Statistical Methods for Demographic Data 1
